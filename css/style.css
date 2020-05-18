@@ -1,0 +1,31 @@
+html{font-family: 'Noto Sans KR', sans-serif; word-break: keep-all; line-height: 1.8; background: #F8FEFF;
+			scroll-behavior: smooth; box-sizing: border-box;}
+		body,h1,h2,p,div,ul,li{margin: 0; padding: 0;}
+		img{width: 100%; }
+		li ul{margin:0 ; padding: 0; }
+		nav ul{width: 1200px; background: none;
+			height: 44px; margin: auto; }
+		nav ul li{background: none; list-style-type: none; width: 16.666%; 
+			float: left; height: 44px; text-align: center; line-height: 44px; }
+		nav ul li a{display: block; color: #BFBFFF; text-decoration: none; 
+					font-size: 1.2em; font-weight: bold; }
+		a:hover{color: gray; transition: all 0.5s;}
+		.width-800{width: 800px; margin: auto;}
+		.font-noto{font-family: 'Noto Sans KR', sans-serif;}
+		.row{width: 1000px; display: flex; margin: auto; }
+		.bg-black{background: black; }
+		.bg-red{background: red; }
+		.bg-blue{background: blue; }
+		.bg-none{background: none; }
+		.font1{font-size: 2.5em; font-weight: 500; color: white; }
+		.font2{font-size: 2.5em; font-weight: 700; color: white; }
+		.font3{font-size: 1.8em; }
+		.font4{font-size: 1.5em; color: white; }
+		.col-1{width: 25%; margin: 0px 10px;}
+		.col-2{width: 50%; margin: 0px 10px;}
+		.col-3{width: 75%; margin: 0px 10px;}
+		.col-4{width: 85%; margin: 0px 10px;}
+		.col-5{width: 15%; margin: 0px 10px;}
+		.col-30{width: 30%; margin: 0px 10px;}
+		.col-70{width: 70%; margin: 0px 10px;}
+		.fixed{position: fixed; width: 100% ; top: 0px;}
